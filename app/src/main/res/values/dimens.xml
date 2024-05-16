@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">12dp</dimen>
+    <dimen name="padding_medium">24dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+    <dimen name="marge_inside_hero_card">16dp</dimen>
+    <dimen name="marge_outside_hero_card">12dp</dimen>
+    <dimen name="image_size">88dp</dimen>
+</resources>
